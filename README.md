@@ -1,7 +1,7 @@
 # hiki-t.github.io
 
-![viewsCount1](https://komarev.com/ghpvc/?username=hiki-t&color=brightgreen&label=views)
-![view_count2](https://komarev.com/ghpvc/?username=hiki-t-rblog-example3&color=brightgreen&label=viewsTest)
+![viewsCount1](https://komarev.com/ghpvc/?username=hiki-t&color=brightgreen&label=views)  
+![view_count2](https://komarev.com/ghpvc/?username=hiki-t-rblog-example3&color=brightgreen&label=viewsTest)  
 
 <div class="views">
     <span class="views">
@@ -15,6 +15,7 @@
 
 Test link1, https://github.com/abdheshnayak/static-website-views-counter  
 Test link2, https://github.com/jwenjian/visitor-badge  
+Test link3, https://github.com/antonkomarev/github-profile-views-counter  <-- most flexible  
 
 Test 1  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hiki-t.rblog-example3&label=test&right_color=brightgreen)

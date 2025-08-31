@@ -5,7 +5,7 @@ Updated on 31 August, 2025
 <br>
 
 ### Profile
-- Core: ( [**LinkedIn**](https://www.linkedin.com/in/hikaru-tsujimura/) | [**X**](https://x.com/htsujimura) | [**Google Scholar**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) | [**GitHub**](https://github.com/hiki-t) )
+- Core: ( [**LinkedIn**](https://www.linkedin.com/in/hikaru-tsujimura/) / [**X**](https://x.com/htsujimura) / [**Google Scholar**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) / [**GitHub**](https://github.com/hiki-t) )
 - Supplementary: [BlueSky](https://bsky.app/profile/htsujimura.bsky.social)
 
 ### Familiar techniques

@@ -1,14 +1,25 @@
 # CV/Resume: Hikaru Tsujimura, PhD
 
-Updated on 31 August, 2025
+Updated on 2 September, 2025
 
 <br>
 
 ### Profile
-- Core: ( [**LinkedIn**](https://www.linkedin.com/in/hikaru-tsujimura/) / [**X**](https://x.com/htsujimura) / [**Google Scholar**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) / [**GitHub**](https://github.com/hiki-t) )
-- Supplementary: [BlueSky](https://bsky.app/profile/htsujimura.bsky.social)
+- Researcher in Cognitive Neuroscience and AI Safety (interpretability, Chain-of-Thought reasoning in LLMs) at UCL, Cardiff.
+- **Links**: [**LinkedIn ↗**](https://www.linkedin.com/in/hikaru-tsujimura/) / [**X ↗**](https://x.com/htsujimura) / [**Google Scholar ↗**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) / [**GitHub ↗**](https://github.com/hiki-t)
 
-### Familiar techniques
+### Current interests (September, 2025)
+
+Building on my research in Cognitive Neuroscience—where I studied how human values, decision-making, and actions are internally represented—I have become interested in AI Safety, particularly in understanding how misaligned internal representations in AI systems lead to unexpected values and behaviors. This challenge is likely to persist in next-generation AI systems because:
+
+- AI capabilities are rapidly expanding, diversifying and becoming increasingly complex.
+- Digital architectures are not inherently designed to align with human values.
+- Forced alignment can produce unintended or workaround behaviors.
+- No standardized methods exist to reliably interpret internal representations and link them to model outputs.
+
+My goal is to develop principled approaches for interpreting these representations and mitigating alignment risks in AI systems.
+
+### Technical Skills
 - Python: Numpy, Pandas, Tensorflow, PyTorch, Scikit-learn, Matplotlib, Seaborn, and much more
 - LLMs: LLama2-3.2, Qwen3, DeepSeek, GPT-OSS, OpenAI API, Quantized Fine-Tuning (QLoRA), Unsloth, TransformerLens
 - AI Safety:
@@ -90,6 +101,7 @@ Updated on 31 August, 2025
 ### PhD Student , 2013-2019 - University of Manchester
 
 #### # 11. Sleep & Memory Projects @ Sleep Lab (2013-2019)
+- Supervised by Prof. Penny Lewis
 - Investigated impacts of sleep on memory and brain activity changes over time ([Paper](https://www.sciencedirect.com/science/article/pii/S1053811918303380)).
 - Gained hands-on experience in sleep (EEG) and brain-imaging (fMRI) data analysis, teaching and supervision.
 - Learned Python/R and analysis of A/B tests, t-tests, ANOVA, Bayesian statistics, linear/non-linear model fitting.
@@ -97,7 +109,7 @@ Updated on 31 August, 2025
 ### Voluntary Research Assistant, 2011-2013 - Goldsmiths, University of London
 
 #### # 12. Face Processing Projects @ Banissy Lab (2013-2019)
-- Supervised by Dr Michael Banissy
+- Supervised by Prof. Michael Banissy
 - Investigated on various characteristics of face processing (e.g. perceiving physical fitness from static facial images)
 - ([Paper1](https://www.researchgate.net/publication/279161384_Dominant_Voices_and_Attractive_Faces_The_Contribution_of_Visual_and_Auditory_Information_to_Integrated_Person_Impressions), [Paper2](https://pmc.ncbi.nlm.nih.gov/articles/PMC3645049/pdf/rsbl20130140.pdf))
 

@@ -21,7 +21,7 @@ My goal is to develop principled approaches for interpreting these representatio
 
 ### Technical Skills
 - Python: Numpy, Pandas, Tensorflow, PyTorch, Scikit-learn, Matplotlib, Seaborn, and much more
-- LLMs: LLama2-3.2, Qwen3, DeepSeek, GPT-OSS, OpenAI API, Quantized Fine-Tuning (QLoRA), Unsloth, TransformerLens
+- LLMs: LLama2-3.2, Qwen3, DeepSeek, Gemma2, GPT-OSS, OpenAI API, Quantized Fine-Tuning (QLoRA), Unsloth, TransformerLens
 - AI Safety:
   - Chain-of-Thought (CoT) Reasoning in LLMs
   - Mechanistic Interpretability (SAE, TransformerLens)

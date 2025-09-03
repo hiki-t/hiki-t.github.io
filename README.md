@@ -1,11 +1,11 @@
 # CV/Resume: Hikaru Tsujimura, PhD
 
-Updated on 2 September, 2025
+Updated on 3 September, 2025
 
 <br>
 
 ### Profile
-- Researcher in Cognitive Neuroscience and AI Safety (interpretability, Chain-of-Thought reasoning in LLMs) at UCL, Cardiff.
+- Researcher in Cognitive Neuroscience and AI Safety (interpretability, Chain-of-Thought reasoning in LLMs) at UCL/Cardiff.
 - **Links**: [**LinkedIn ↗**](https://www.linkedin.com/in/hikaru-tsujimura/) / [**X ↗**](https://x.com/htsujimura) / [**Google Scholar ↗**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) / [**GitHub ↗**](https://github.com/hiki-t)
 
 ### Current interests (September, 2025)
@@ -80,7 +80,7 @@ My goal is to develop principled approaches for interpreting these representatio
 )) | Own GPT model from scratch ([GitHub Repo](https://github.com/hiki-t/gpt_model_from_scratch))
 
 #### # 8. Impact Research Groups (IRG) 2025 @ Arcadia (July, 2025 - September, 2025)
-- Selected to conduct research on Chain-of-Thought reasoning in LLMs (DeepSeek-R1, Qwen3, GPT-OSS).
+- Selected to conduct research on Chain-of-Thought reasoning in LLMs (DeepSeek-R1, Qwen3, Gemma2, GPT-OSS).
 
 ### ➤➤➤ Cognitive Science Projects
 

@@ -38,11 +38,13 @@ My goal is to develop principled approaches for interpreting these representatio
 
 <br>
 
+<!-- ### ${\textsf{\color{blue}Blue}}$ -->
+
 ## <mark>Recent Experience</mark>
 
 ### Post-Doctoral Researcher, 2019-Present - Cardiff University
 
-### ➤➤➤ Machine Learning (ML) / AI Safety Projects
+### <ins> ➤ Machine Learning (ML) Projects </ins>
 
 #### # 1. Group Project 2023 @ Neuromatch Academy Workshop in Deep Learning course (July, 2023)
 - Led a team of 7 PhD students and researchers to complete a 3-week ML project.
@@ -82,7 +84,7 @@ My goal is to develop principled approaches for interpreting these representatio
 #### # 8. Impact Research Groups (IRG) 2025 @ Arcadia (July, 2025 - September, 2025)
 - Selected to conduct research on Chain-of-Thought reasoning in LLMs (DeepSeek-R1, Qwen3, Gemma2, GPT-OSS).
 
-### ➤➤➤ Cognitive Science Projects
+### <ins> ➤ Cognitive Science Projects </ins>
 
 #### # 9. Memory & Curiosity Projects @ Motivation and Memory Lab (2019-2022)
 - Collaborated with BBC on online studies (behavioral/survey) with 500 subjects.

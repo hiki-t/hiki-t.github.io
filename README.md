@@ -1,6 +1,6 @@
 # CV/Resume: Hikaru Tsujimura, PhD
 
-Updated on 3 September, 2025
+Updated on 6 September, 2025
 
 <br>
 
@@ -10,10 +10,10 @@ Updated on 3 September, 2025
 
 ### Current interests (September, 2025)
 
-Building on my research in Cognitive Neuroscience—where I studied how human values, decision-making, and actions are internally represented—I have become interested in AI Safety, particularly in understanding how misaligned internal representations in AI systems lead to unexpected values and behaviors. This challenge is likely to persist in next-generation AI systems because:
+Building on my research in Cognitive Neuroscience—where I studied how human values, decision-making, and actions are internally represented—I have become interested in AI Safety, particularly in understanding how misaligned internal representations in AI systems lead to unexpected value preferences and behaviors. This challenge is likely to persist in next-generation AI systems because:
 
 - AI capabilities are rapidly expanding, diversifying and becoming increasingly complex.
-- Digital architectures are not inherently designed to align with human values.
+- Digital architectures are not inherently designed to align with human values and thinking processes.
 - Forced alignment can produce unintended or workaround behaviors.
 - No standardized methods exist to reliably interpret internal representations and link them to model outputs.
 
@@ -21,12 +21,14 @@ My goal is to develop principled approaches for interpreting these representatio
 
 ### Technical Skills
 - Python: Numpy, Pandas, Tensorflow, PyTorch, Scikit-learn, Matplotlib, Seaborn, and much more
-- LLMs: LLama2-3.2, Qwen3, DeepSeek, Gemma2, GPT-OSS, OpenAI API, Quantized Fine-Tuning (QLoRA), Unsloth, TransformerLens
+- LLMs: LLama2-3.2, Qwen3, DeepSeek, Gemma2, GPT-OSS, Deepcogito, Magistral, OpenAI API
 - AI Safety:
   - Chain-of-Thought (CoT) Reasoning in LLMs
   - Mechanistic Interpretability (SAE, TransformerLens)
   - Overconfidence Analysis in LLMs
   - Safe Reinforcement Learning (PPO)
+- AI Safety Research Tools
+  - Quantized Fine-Tuning (QLoRA), Unsloth, TransformerLens, Vast.ai, Google Colab, Remote Server
 - Programming: Bash, JavaScript, R, Cluster-Job, Matlab, SQL (PostgreSQL), Docker, FastAPI, Streamlit
 - Analysis:
   - Statistical: Regression, ANOVA, Bayesian methods, PCA, Factor Analysis, Mixed Models

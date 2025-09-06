@@ -10,7 +10,7 @@ Updated on 6 September, 2025
 
 ### Current interests (September, 2025)
 
-Building on my research in Cognitive Neuroscience—where I studied how human values, decision-making, and actions are internally represented—I have become interested in AI Safety, particularly in understanding how misaligned internal representations in AI systems lead to unexpected value preferences and behaviors. This challenge is likely to persist in next-generation AI systems because:
+Building on my research in Cognitive Neuroscience—where I studied how human values, decision-making, and actions are internally represented—I've become interested in AI Safety, particularly in understanding how misaligned internal representations in AI systems lead to unexpected value preferences and behaviors. This challenge is likely to persist in next-generation AI systems because:
 
 - AI capabilities are rapidly expanding, diversifying and becoming increasingly complex.
 - Digital architectures are not inherently designed to align with human values and thinking processes.

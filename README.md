@@ -83,19 +83,24 @@ My goal is to develop principled approaches for interpreting these representatio
 - Selected Projects: Digit recognizer ([Demo](https://transformer-from-scratch-encoder-decoder-ctcloss.streamlit.app/
 )) | Own GPT model from scratch ([GitHub Repo](https://github.com/hiki-t/gpt_model_from_scratch))
 
-#### # 8. Impact Research Groups (IRG) 2025 @ Arcadia (July, 2025 - October, 2025)
+#### # 8. MATS 2025 Application project (August, 2025)
+- Conducted a 18/20 hour Mechanistic Interpretability project.
+- Employed PyTorch, nnsight, as well as providing project codebase.
+- Probed hidden representational structures in Qwen3 to identify implicit mathematical reasoning knowledge ([Google Doc](https://docs.google.com/document/d/135oGb2UQzb7rnC1OhYqu89uotDQlf-y3dcB8KxwwTeQ/edit?usp=drive_link)).
+
+#### # 9. Impact Research Groups (IRG) 2025 @ Arcadia (July, 2025 - October, 2025)
 - Conducted research on Chain-of-Thought (CoT) reasoning in LLMs (DeepSeek, Qwen3, Gemma2, GPT-OSS).
 - Replicated Emmons et al., (2025)'s work, showing CoT faithfulness under misleading prompts, when think-mode is off.
-- Discovered that such faithful behaviors vanished with think-mode, raising a need for a new intervention ([Google Slide](https://docs.google.com/presentation/d/1q46DymFR2kJDCBWFG0JvUmVoUZ8pMW3SQzFewezRWhM/edit?usp=drive_link))
+- Discovered that such faithful behaviors vanished with think-mode, raising a need for a new intervention ([Google Slide](https://docs.google.com/presentation/d/1q46DymFR2kJDCBWFG0JvUmVoUZ8pMW3SQzFewezRWhM/edit?usp=drive_link)).
 
 ### ⇨ Cognitive Science Projects
 
-#### # 9. Memory & Curiosity Projects @ Motivation and Memory Lab (2019-2022)
+#### # 10. Memory & Curiosity Projects @ Motivation and Memory Lab (2019-2022)
 - Collaborated with BBC on online studies (behavioral/survey) with 500 subjects.
 - Utilized Python, JavaScript, SQL, Regression, PCA, Factor analysis, K-means Clustering, Linear Mixed Model.
 - Identified three motivational factors from survey data that predicted BBC users’ news consumption behavior. ([Preprint](https://osf.io/preprints/psyarxiv/avqwn_v1))
 
-#### # 10. Decision Making Projects @ Cognition and Computational Brain Lab (2022-2023)
+#### # 11. Decision Making Projects @ Cognition and Computational Brain Lab (2022-2023)
 - Conducted 28 online behavioral studies (30-45 min long) with 700 subjects.
 - Reduced online study duration by 99% using Python/R for agile implementation, analysis and visualization.
 - Uncovered impacts of initial practices for later choice preferences, enhancing user behavior prediction. ([Preprint](https://osf.io/nc6tu/download))
@@ -106,7 +111,7 @@ My goal is to develop principled approaches for interpreting these representatio
 
 ### PhD Student , 2013-2019 - University of Manchester
 
-#### # 11. Sleep & Memory Projects @ Sleep Lab (2013-2019)
+#### # 12. Sleep & Memory Projects @ Sleep Lab (2013-2019)
 - Supervised by Prof. Penny Lewis
 - Investigated impacts of sleep on memory and brain activity changes over time ([Paper](https://www.sciencedirect.com/science/article/pii/S1053811918303380)).
 - Gained hands-on experience in sleep (EEG) and brain-imaging (fMRI) data analysis, teaching and supervision.
@@ -114,7 +119,7 @@ My goal is to develop principled approaches for interpreting these representatio
 
 ### Voluntary Research Assistant, 2011-2013 - Goldsmiths, University of London
 
-#### # 12. Face Processing Projects @ Banissy Lab (2013-2019)
+#### # 13. Face Processing Projects @ Banissy Lab (2013-2019)
 - Supervised by Prof. Michael Banissy
 - Investigated on various characteristics of face processing (e.g. perceiving physical fitness from static facial images)
 - ([Paper1](https://www.researchgate.net/publication/279161384_Dominant_Voices_and_Attractive_Faces_The_Contribution_of_Visual_and_Auditory_Information_to_Integrated_Person_Impressions), [Paper2](https://pmc.ncbi.nlm.nih.gov/articles/PMC3645049/pdf/rsbl20130140.pdf))

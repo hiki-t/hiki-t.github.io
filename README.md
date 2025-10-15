@@ -1,6 +1,6 @@
 # CV/Resume: Hikaru Tsujimura, PhD
 
-Updated on 6 September, 2025
+Updated on 15 October, 2025
 
 <br>
 
@@ -83,8 +83,10 @@ My goal is to develop principled approaches for interpreting these representatio
 - Selected Projects: Digit recognizer ([Demo](https://transformer-from-scratch-encoder-decoder-ctcloss.streamlit.app/
 )) | Own GPT model from scratch ([GitHub Repo](https://github.com/hiki-t/gpt_model_from_scratch))
 
-#### # 8. Impact Research Groups (IRG) 2025 @ Arcadia (July, 2025 - September, 2025)
-- Selected to conduct research on Chain-of-Thought reasoning in LLMs (DeepSeek-R1, Qwen3, Gemma2, GPT-OSS).
+#### # 8. Impact Research Groups (IRG) 2025 @ Arcadia (July, 2025 - October, 2025)
+- Conducted research on Chain-of-Thought (CoT) reasoning in LLMs (DeepSeek, Qwen3, Gemma2, GPT-OSS, DeepCogito).
+- Replicated Emmons et al., 2025's work, showing CoT faithfulness under misleading prompts, when think-mode is off.
+- Discovered that such faithful behaviors vanished with think-mode, raising a need for a new intervention ([Google Slide](https://docs.google.com/presentation/d/1q46DymFR2kJDCBWFG0JvUmVoUZ8pMW3SQzFewezRWhM/edit?usp=drive_link))
 
 ### ⇨ Cognitive Science Projects
 

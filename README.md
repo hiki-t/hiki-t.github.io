@@ -8,7 +8,7 @@ Updated on 15 October, 2025
 - Researcher in Cognitive Neuroscience and AI Safety (interpretability, Chain-of-Thought reasoning in LLMs) at UCL/Cardiff.
 - **Links**: [**LinkedIn ↗**](https://www.linkedin.com/in/hikaru-tsujimura/) / [**X ↗**](https://x.com/htsujimura) / [**Google Scholar ↗**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) / [**GitHub ↗**](https://github.com/hiki-t)
 
-### Current interests (September, 2025)
+### Current interests (October, 2025)
 
 Building on my research in Cognitive Neuroscience—where I studied how human values, decision-making, and actions are internally represented—I've become interested in AI Safety, particularly in understanding how misaligned internal representations in AI systems lead to unexpected value preferences and behaviors. This challenge is likely to persist in next-generation AI systems because:
 

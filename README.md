@@ -84,7 +84,7 @@ My goal is to develop principled approaches for interpreting these representatio
 )) | Own GPT model from scratch ([GitHub Repo](https://github.com/hiki-t/gpt_model_from_scratch))
 
 #### # 8. MATS 2025 Application Project (August, 2025)
-- Conducted a 18/20 hour Mechanistic Interpretability project.
+- Conducted a 18/20 hour Mechanistic Interpretability project (two experiments).
 - Employed PyTorch, nnsight, as well as providing project codebase.
 - Probed hidden representational structures in Qwen3 to identify implicit mathematical reasoning knowledge ([Google Doc](https://docs.google.com/document/d/135oGb2UQzb7rnC1OhYqu89uotDQlf-y3dcB8KxwwTeQ/edit?usp=drive_link)).
 

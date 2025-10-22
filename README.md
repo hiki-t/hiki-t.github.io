@@ -1,42 +1,47 @@
 # CV/Resume: Hikaru Tsujimura, PhD
 
-Updated on 15 October, 2025
+Updated on 22 October, 2025
 
 <br>
 
 ### Profile
-- Researcher in Cognitive Neuroscience and AI Safety (interpretability, Chain-of-Thought reasoning in LLMs) at UCL/Cardiff.
+- Researcher in Cognitive Neuroscience and AI Safety (Interpretability, Chain-of-Thought reasoning in LLMs) at UCL/Cardiff.
 - **Links**: [**LinkedIn ↗**](https://www.linkedin.com/in/hikaru-tsujimura/) / [**X ↗**](https://x.com/htsujimura) / [**Google Scholar ↗**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) / [**GitHub ↗**](https://github.com/hiki-t)
 
 ### Current interests (October, 2025)
 
-Building on my research in Cognitive Neuroscience—where I studied how human values, decision-making, and actions are internally represented—I've become interested in AI Safety, particularly in understanding how misaligned internal representations in AI systems lead to unexpected value preferences and behaviors. This challenge is likely to persist in next-generation AI systems because:
+Building on my research in Cognitive Neuroscience—where I studied how human values, decisions, and actions are internally represented—I now focus on AI Safety, particularly on understanding how misaligned internal representations in AI systems lead to unintended value preferences and behaviors. 
 
-- AI capabilities are rapidly expanding, diversifying and becoming increasingly complex.
+This challenge is likely to persist as:
+
+- AI systems grow rapidly in capability, complexity, and diversity.
 - Digital architectures are not inherently designed to align with human values and thinking processes.
-- Forced alignment can produce unintended or workaround behaviors.
-- No standardized methods exist to reliably interpret internal representations and link them to model outputs.
+- Forced alignment often induces workaround or deceptive behaviors (e.g. "scheming" AIs).
+- We lack standardized methods to reliably interpret internal representations linked to model outputs.
 
-My goal is to develop principled approaches for interpreting these representations and mitigating alignment risks in AI systems.
+Accordingly, my first goal is to develop principled approaches for interpreting and mitigating representational misalignment in AI systems.  
+
+In 2025, frontier models began demonstrating new roles in enhancing human creativity and productivity (e.g. [New Chess Moves by DeepMind/Goodfire](https://www.pnas.org/doi/full/10.1073/pnas.2406675122); [Scientific Data Interpretations by Leap Lab](https://zenodo.org/records/15693353)). That same year, [my study](https://arxiv.org/pdf/2508.17182) uncovered hidden emotional and logical structures underlying assertive and persuasive model outputs, offering insights into effective human communication. Building on this, my second goal is to build tools that leverage frontier models to amplify human cognitive capacities.
 
 ### Technical Skills
 - Python: Numpy, Pandas, Tensorflow, PyTorch, Scikit-learn, Matplotlib, Seaborn, and much more
-- LLMs: LLama2-3.2, Qwen3, DeepSeek, Gemma2, GPT-OSS, Deepcogito, Magistral, OpenAI API
+- LLMs: LLama2-3.2, Qwen3, DeepSeek, Gemma2, GPT-OSS, DeepCogito, Magistral, OpenAI API(Whisper)
 - AI Safety:
   - Chain-of-Thought (CoT) Reasoning in LLMs
   - Mechanistic Interpretability (SAE, TransformerLens)
   - Overconfidence Analysis in LLMs
   - Safe Reinforcement Learning (PPO)
 - AI Safety Research Tools
-  - Quantized Fine-Tuning (QLoRA), Unsloth, TransformerLens, Vast.ai, Google Colab, Remote Server
-- Programming: Bash, JavaScript, R, Cluster-Job, Matlab, SQL (PostgreSQL), Docker, FastAPI, Streamlit
+  - Quantized Fine-Tuning (QLoRA), Unsloth, TransformerLens, Vast.AI, Google Colab, Remote Server
+- Programming: Bash, JavaScript, R, Git, Cluster-Job, Matlab, SQL (PostgreSQL), Docker, FastAPI, Streamlit
 - Analysis:
   - Statistical: Regression, ANOVA, Bayesian methods, PCA, Factor Analysis, Mixed Models
   - Machine Learning: Supervised & Unsupervised Learning, Variational Inference, Neural ODE, RNN (LSTM, GRU)
   - Behavioral: Human-subject Experiments, Large-scale Online Studies, Survey Design (GDPR-compliant)
   - Neuroimaging: Sleep-EEG, fMRI, Brain Activity Pattern Modeling
 - Experimentations: Large-scale, Online, Human-subjects/GDPR, Behavioral/Survey, Brain-imaging (Sleep-EEG/MRI)
-- Writing: Journal papers, Preprints, GitHub Blog
+- Writing: Journal papers, Preprints, GitHub Blog/Codebase
+- Communication: Leadership to Masters/PhDs, Teaching, Conference presentations, Collaboration with scholars/industrial partner
 
 <br>
 

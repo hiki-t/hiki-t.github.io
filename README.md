@@ -26,7 +26,7 @@ Accordingly, my first goal is to develop principled approaches for interpreting 
 In 2025, frontier models began demonstrating new roles in enhancing human creativity and productivity (e.g. [New Chess Move Discoveries by DeepMind/Goodfire](https://www.pnas.org/doi/full/10.1073/pnas.2406675122); [Scientific Data Interpretations by Leap Lab](https://zenodo.org/records/15693353)). That same year, [my study](https://arxiv.org/pdf/2508.17182) also uncovered hidden emotional and logical structures underlying assertive and persuasive model outputs, offering insights into effective human communication. Building on this, as my second goal, I am eager to build tools that leverage frontier models to amplify human cognitive capacities.
 
 ### Technical Skills
-- Python: Numpy, Pandas, Tensorflow, PyTorch, Scikit-learn, Matplotlib, Seaborn, and much more
+- Python: PyTorch, Transformers, Peft, Accelerate, TransformerLens, Scikit-learn, Numpy, Pandas, Matplotlib, Wandb, and more
 - LLMs: LLama2-3.2, Qwen3, DeepSeek, Gemma2, GPT-OSS, DeepCogito, Magistral, OpenAI API(Whisper)
 - AI Safety:
   - Chain-of-Thought (CoT) Reasoning in LLMs

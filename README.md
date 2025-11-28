@@ -8,7 +8,7 @@ Updated on 22 October, 2025
 
 ### Profile
 - Researcher in Cognitive Neuroscience and AI Safety (Interpretability, Chain-of-Thought reasoning in LLMs) at UCL/Cardiff.
-- **Links**: [**LinkedIn ↗**](https://www.linkedin.com/in/hikaru-tsujimura/) / [**X ↗**](https://x.com/htsujimura) / [**Google Scholar ↗**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) / [**GitHub ↗**](https://github.com/hiki-t)
+- **Links**: [**&nbsp;LinkedIn ↗**](https://www.linkedin.com/in/hikaru-tsujimura/) / [**&nbsp;X ↗**](https://x.com/htsujimura) / [**&nbsp;Google Scholar ↗**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) / [**&nbsp;GitHub ↗**](https://github.com/hiki-t)
 
 ### Current interests (October, 2025)
 

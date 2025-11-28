@@ -27,21 +27,23 @@ In 2025, frontier models began demonstrating new roles in enhancing human creati
 
 ### Technical Skills
 - Python: PyTorch, Transformers, Peft, Accelerate, TransformerLens, Scikit-learn, Numpy, Pandas, Matplotlib, Wandb, and more
-- LLMs: LLama2-3.2, Qwen3, DeepSeek, Gemma2, GPT-OSS, DeepCogito, Magistral, OpenAI API(Whisper)
+- LLMs: Llama2-3.2, Qwen3, DeepSeek, Gemma2, GPT-OSS, DeepCogito, Magistral, OpenAI and Anthropic APIs
 - AI Safety:
   - Chain-of-Thought (CoT) Reasoning in LLMs
   - Mechanistic Interpretability (SAE, TransformerLens)
   - Overconfidence Analysis in LLMs
+  - LLM Persona Engineering
+  - AI Security & Red Teaming (Frontier models)
   - Safe Reinforcement Learning (PPO)
-- AI Safety Research Tools
-  - Quantized Fine-Tuning (QLoRA), Unsloth, TransformerLens, Vast.AI, Google Colab, Remote Server
-- Programming: Bash, JavaScript, R, Git, Cluster-Job, Matlab, SQL (PostgreSQL), Docker, FastAPI, Streamlit
+- AI Research Infrastructure
+  - Quantized Fine-Tuning (QLoRA), Unsloth, Vast.AI, Google Colab, Remote Server
+- Programming: Bash, JavaScript, R, Git, SLURM/Job Scheduling, Matlab, SQL (PostgreSQL), Docker, FastAPI, Streamlit
 - Analysis:
   - Statistical: Regression, ANOVA, Bayesian methods, PCA, Factor Analysis, Mixed Models
   - Machine Learning: Supervised & Unsupervised Learning, Variational Inference, Neural ODE, RNN (LSTM, GRU)
   - Behavioral: Human-subject Experiments, Large-scale Online Studies, Survey Design (GDPR-compliant)
   - Neuroimaging: Sleep-EEG, fMRI, Brain Activity Pattern Modeling
-- Experimentations: Large-scale, Online, Human-subjects/GDPR, Behavioral/Survey, Brain-imaging (Sleep-EEG/MRI)
+- Experimentations: Large-scale, Online, Human-subject/GDPR, Behavioral/Survey, Brain-imaging (Sleep-EEG/MRI)
 - Writing: Journal papers, Preprints, GitHub Blog/Codebase
 - Communication: Leadership to Masters/PhDs, Teaching, Conference presentations, Collaboration with scholars/industrial partner
 

@@ -81,7 +81,7 @@ Accordingly, my goals for 2026 and beyond are:
 
 ### Post-Doctoral Researcher, 2019-Present - Cardiff University
 
-### ⇨ Machine Learning (ML) Projects
+### ⇨ Machine Learning (ML) / AI Safety Projects
 
 #### # 1. Independent Mechanistic Interpretability Work II (September, 2026 - Present)
 - Independently investigating internal mechanisms of LLM reactions to misleading CoT reasoning.

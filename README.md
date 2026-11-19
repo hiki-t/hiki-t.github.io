@@ -7,14 +7,14 @@ Last updated on 19 November, 2026
 <img src="1530035234413.jpeg" alt="My Profile" height="200">
 
 ### Profile
-- Researcher in Cognitive Neuroscience and AI Safety (Interpretability, Chain-of-Thought reasoning in LLMs) at UCL/Cardiff.
+- Independent Researcher in Cognitive Neuroscience and AI Safety (Interpretability, Chain-of-Thought reasoning in LLMs).
 - **Links**: [**&nbsp;LinkedIn ↗**](https://www.linkedin.com/in/hikaru-tsujimura/) / [**&nbsp;X ↗**](https://x.com/htsujimura) / [**&nbsp;Google Scholar ↗**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) / [**&nbsp;GitHub ↗**](https://github.com/hiki-t)
 
 <br>
 
 ### Research Interests
 
-Building on my research in cognitive neuroscience (2006-2024)—where I studied how human values, decisions, and actions are internally represented—I now focus on AI safety (2024-present), particularly on understanding how the internal structure of AI systems lead to unintended values, reasoning and behaviors. 
+Building on my research in cognitive neuroscience (2006-2024)—where I studied how human values, decisions, and actions are internally represented—I now focus on AI safety (2024-present), particularly on understanding how the internal structure of AI systems leads to unintended values, reasoning and behaviors. 
 
 This challenge is likely to persist as:
 
@@ -33,12 +33,12 @@ In 2025, frontier models began demonstrating new roles in enhancing human creati
 
 Kulveit et al.'s gradual disempowerment [(2025)](https://arxiv.org/pdf/2501.16946) and the Hugging Face swarm incident in 2026 ([OpenAI report](https://openai.com/index/hugging-face-incident-and-the-road-ahead/), [METR investigation](https://metr.org/hugging-face-incident-report-aug-2026.pdf)) convinced me that we are entering an era of transformative AI, where AI-augmented work becomes the norm and outperforms human work alone. Rather than letting AI replace humans, we should design and protect cooperative societies of human and AI agents that keep human roles meaningful.
 
-This also means that AI's influence on people is growing at a global scale. Traditional media, social media, intellectual work, and many other high-stakes fields are increasingly shaped by AI's voice. AI's overconfident and excessively persuasive language, sometimes carrying non-factual claims, has therefore become one of the most urgent problems to solve. What we need instead is trustworthy AI systems that communicate transparently and neutrally, and that help expand human knowledge, intellectual abilities, and views, so that people can act on them to build a collaborative society that reflects both human and AI voices.
+This also means that AI's influence on people is growing at a global scale. Traditional media, social media, intellectual work, and many other high-stakes fields are increasingly shaped by AI's voice. AI's overconfident and excessively persuasive language, sometimes carrying non-factual claims, has therefore become one of the most urgent problems to solve. What we need instead is trustworthy AI systems that communicate transparently and neutrally, and that help expand human knowledge, intellectual abilities, and views, so that people can act on them to build a society that properly reflects human voices.
 
 Accordingly, my goals for 2026 and beyond are:
 
 - To continue my first goal, turning the internal structures found with interpretability into tools that monitor what models do but do not show.
-  - [My 2026 study](https://docs.google.com/document/d/19FvsDW5YjMoWYMwrhs_As9jVNdb_3DKhEDm4-neUk44/edit?usp=drive_link) uses mechanistic interpretability to reveal a two-stage verification process in Qwen2.5-1.5B, showing how the model .responds to an injected false answer in arithmetic problems. Steering each stage at its own position resists the injection much better than steering both stages at once.
+  - [My 2026 study](https://docs.google.com/document/d/19FvsDW5YjMoWYMwrhs_As9jVNdb_3DKhEDm4-neUk44/edit?usp=drive_link) uses mechanistic interpretability to reveal a two-stage verification process in Qwen2.5-1.5B, showing how the model responds to an injected false answer in arithmetic problems. Steering each stage at its own position resists the injection much better than steering both stages at once.
 - To map large populations of AI agents and human users together, observing their overall behaviors (as in the HF swarm incident) and how their beliefs change, starting with monitoring AI's influence on humans (e.g. how large populations of AI agents shape human views).
   - To mitigate the risk of excessive AI persuasion of humans, I aim to build a population behavior map that monitors how a population behaves as a whole, traces where problems come from, and helps find protections against those causes.
 
@@ -79,7 +79,7 @@ Accordingly, my goals for 2026 and beyond are:
 
 ## <mark>Recent Experience</mark>
 
-### Post-Doctoral Researcher, 2019-Present - Cardiff University
+### Visiting Researcher (Cardiff / UCL) and Independent Researcher, 2023-Present
 
 ### ⇨ Machine Learning (ML) / AI Safety Projects
 
@@ -102,7 +102,7 @@ Accordingly, my goals for 2026 and beyond are:
 - Discovered that strongly trait-eliciting prompts produce stable, clustered activation patterns.
 
 #### # 5. MATS 2025 Application Project (August, 2025)
-- Conducted a 18/20 hour Mechanistic Interpretability project (two experiments).
+- Conducted an 18/20 hour Mechanistic Interpretability project (two experiments).
 - Employed PyTorch, nnsight, as well as providing project codebase.
 - Probed hidden representational structures in Qwen3 to identify implicit mathematical reasoning knowledge ([Google Doc](https://docs.google.com/document/d/135oGb2UQzb7rnC1OhYqu89uotDQlf-y3dcB8KxwwTeQ/edit?usp=drive_link)).
 
@@ -145,6 +145,8 @@ Accordingly, my goals for 2026 and beyond are:
 - Utilized PyTorch, pre-trained networks (e.g. CLIP) and 4.6M human choice data from 14K participants.
 - Aligned models with the above data to visualize internal representations of everyday objects in humans ([GitHub](https://github.com/hiki-t/NMA23_solo_project/blob/main/Neuromatch%20Academy%20-%20Presentation%20Part2%20GitHub.pdf)).
 
+### Post-Doctoral Researcher, 2019-2023 - Cardiff University
+
 ### ⇨ Cognitive Science Projects
 
 #### # 14. Decision Making Projects @ Cognition and Computational Brain Lab (2022-2023)
@@ -161,7 +163,7 @@ Accordingly, my goals for 2026 and beyond are:
 
 ## <mark>Prior Experience</mark>
 
-### PhD Student , 2013-2019 - University of Manchester
+### PhD Student, 2013-2019 - University of Manchester
 
 #### # 16. Sleep & Memory Projects @ Sleep Lab (2013-2019)
 - Supervised by Prof. Penny Lewis
@@ -171,7 +173,7 @@ Accordingly, my goals for 2026 and beyond are:
 
 ### Voluntary Research Assistant, 2011-2013 - Goldsmiths, University of London
 
-#### # 17. Face Processing Projects @ Banissy Lab (2013-2019)
+#### # 17. Face Processing Projects @ Banissy Lab (2011-2013)
 - Supervised by Prof. Michael Banissy
 - Investigated on various characteristics of face processing (e.g. perceiving physical fitness from static facial images)
 - ([Paper1](https://www.researchgate.net/publication/279161384_Dominant_Voices_and_Attractive_Faces_The_Contribution_of_Visual_and_Auditory_Information_to_Integrated_Person_Impressions), [Paper2](https://pmc.ncbi.nlm.nih.gov/articles/PMC3645049/pdf/rsbl20130140.pdf))

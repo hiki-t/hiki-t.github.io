@@ -46,8 +46,8 @@ Accordingly, my goals for 2026 and beyond are:
 <br>
 
 ### Technical Skills
-- Python: PyTorch, Transformers, Peft, Accelerate, TransformerLens, Scikit-learn, Numpy, Pandas, Matplotlib, Wandb, and more
-- LLMs: Llama2-3.2, Qwen3, DeepSeek, Gemma2, GPT-OSS, DeepCogito, Magistral, OpenAI and Anthropic APIs
+- Python: PyTorch, Transformers, Peft, Accelerate, TransformerLens, NNsight, Scikit-learn, Numpy, Pandas, Matplotlib, Wandb, and more
+- LLMs: Llama2-3.2, Qwen2.5/3/3.5, DeepSeek-R1-Distill, Gemma2, GPT-OSS, DeepCogito, Magistral, OpenAI and Anthropic APIs
 - AI Safety:
   - Chain-of-Thought (CoT) Reasoning in LLMs
   - Mechanistic Interpretability (SAE, TransformerLens)
@@ -55,17 +55,23 @@ Accordingly, my goals for 2026 and beyond are:
   - LLM Persona Engineering
   - AI Security & Red Teaming (Frontier models)
   - Safe Reinforcement Learning (PPO)
+  - Model Evaluation (incl. LLM-as-a-Judge)
+  - Robustness to Misleading CoT / Injected Answers
+- Interpretability Methods: Linear Probes, Logit Lens, J-Lens, Attribution / Logit-Difference Analysis, Activation Steering (Mean-Difference, Position-Specific Multi-Layer), Causal & Head Ablation, Residual-Stream Decomposition, Random-Direction Controls
 - AI Research Infrastructure
   - Quantized Fine-Tuning (QLoRA), Unsloth, Vast.AI, Google Colab, Remote Server
+  - LoRA Fine-Tuning (up to 11B), Multi-GPU Servers, AI Coding Tools (Claude Code)
 - Programming: Bash, JavaScript, R, Git, SLURM/Job Scheduling, Matlab, SQL (PostgreSQL), Docker, FastAPI, Streamlit
 - Analysis:
-  - Statistical: Regression, ANOVA, Bayesian methods, PCA, Factor Analysis, Mixed Models
-  - Machine Learning: Supervised & Unsupervised Learning, Variational Inference, Neural ODE, RNN (LSTM, GRU)
+  - Statistical: Regression, ANOVA, Bayesian methods, PCA, Factor Analysis, Mixed Models, Multilevel / Hierarchical GLMs
+  - Machine Learning: Supervised & Unsupervised Learning, Variational Inference, Neural ODE, RNN (LSTM, GRU), Knowledge-Graph Embedding
   - Behavioral: Human-subject Experiments, Large-scale Online Studies, Survey Design (GDPR-compliant)
   - Neuroimaging: Sleep-EEG, fMRI, Brain Activity Pattern Modeling
 - Experimentations: Large-scale, Online, Human-subject/GDPR, Behavioral/Survey, Brain-imaging (Sleep-EEG/MRI)
+  - Platforms: Prolific, Qualtrics, PsychoPy/Pavlovia, Testable, SONA
 - Writing: Journal papers, Preprints, GitHub Blog/Codebase
 - Communication: Leadership to Masters/PhDs, Teaching, Conference presentations, Collaboration with scholars/industrial partner
+  - Research Team Lead (4 PhD students; IRG 2025 award)
 
 <br>
 
@@ -122,14 +128,32 @@ Accordingly, my goals for 2026 and beyond are:
 - Replicated Emmons et al., (2025)'s work, showing CoT faithfulness under misleading prompts, when think-mode is off.
 - Discovered that such faithful behaviors vanished with think-mode, raising a need for a new intervention ([Google Slide](https://docs.google.com/presentation/d/1q46DymFR2kJDCBWFG0JvUmVoUZ8pMW3SQzFewezRWhM/edit?usp=drive_link)).
 
+#### # 10. Independent Persona Stability Work (November, 2025 - December, 2025)
+- Independently investigated how system prompt phrasing affects persona elicitation stability in Qwen3.
+- Extracted activations under contrastive evil/non-evil prompts and used Claude API as an automated trait judge.
+- Discovered that strongly trait-eliciting prompts produce stable, clustered activation patterns.
+
+#### # 11. Independent Mechanistic Interpretability Work I (January, 2026 - Present)
+- Independently investigated LLM vulnerabilities against misleading CoT reasoning (started as the MATS 10.0 application project, December 2025).
+- Applied linear probes, logit lens and attribution analysis to uncover a two-stage verification architecture.
+- Developed a position-specific multi-layer steering method that corrected 51% of failures (accuracy 52% → 76.5%) ([Google Doc](https://docs.google.com/document/d/19FvsDW5YjMoWYMwrhs_As9jVNdb_3DKhEDm4-neUk44/edit?usp=drive_link)).
+
+#### # 12. Founding Member @ Stealth AI Startup (March, 2026 - August, 2026)
+- Developed automated sports coaching tools with Mechanistic Interpretability and Reinforcement Learning methods.
+
+#### # 13. Independent Mechanistic Interpretability Work II (September, 2026 - Present)
+- Independently investigating internal mechanisms of LLM reactions to misleading CoT reasoning.
+- Applied J-Lens, per-submodule residual-stream decomposition, causal ablation and random-direction control tests.
+- Localized component-level mechanisms (MLP-18 for stated-claim tracking, attention L23/L24 for correctness tracking).
+
 ### ⇨ Cognitive Science Projects
 
-#### # 10. Memory & Curiosity Projects @ Motivation and Memory Lab (2019-2022)
+#### # 14. Memory & Curiosity Projects @ Motivation and Memory Lab (2019-2022)
 - Collaborated with BBC on online studies (behavioral/survey) with 500 subjects.
 - Utilized Python, JavaScript, SQL, Regression, PCA, Factor analysis, K-means Clustering, Linear Mixed Model.
 - Identified three motivational factors from survey data that predicted BBC users’ news consumption behavior. ([Preprint](https://osf.io/preprints/psyarxiv/avqwn_v1))
 
-#### # 11. Decision Making Projects @ Cognition and Computational Brain Lab (2022-2023)
+#### # 15. Decision Making Projects @ Cognition and Computational Brain Lab (2022-2023)
 - Conducted 28 online behavioral studies (30-45 min long) with 700 subjects.
 - Reduced online study duration by 99% using Python/R for agile implementation, analysis and visualization.
 - Uncovered impacts of initial practices for later choice preferences, enhancing user behavior prediction. ([Preprint](https://osf.io/nc6tu/download))
@@ -140,7 +164,7 @@ Accordingly, my goals for 2026 and beyond are:
 
 ### PhD Student , 2013-2019 - University of Manchester
 
-#### # 12. Sleep & Memory Projects @ Sleep Lab (2013-2019)
+#### # 16. Sleep & Memory Projects @ Sleep Lab (2013-2019)
 - Supervised by Prof. Penny Lewis
 - Investigated impacts of sleep on memory and brain activity changes over time ([Paper](https://www.sciencedirect.com/science/article/pii/S1053811918303380)).
 - Gained hands-on experience in sleep (EEG) and brain-imaging (fMRI) data analysis, teaching and supervision.
@@ -148,7 +172,7 @@ Accordingly, my goals for 2026 and beyond are:
 
 ### Voluntary Research Assistant, 2011-2013 - Goldsmiths, University of London
 
-#### # 13. Face Processing Projects @ Banissy Lab (2013-2019)
+#### # 17. Face Processing Projects @ Banissy Lab (2013-2019)
 - Supervised by Prof. Michael Banissy
 - Investigated on various characteristics of face processing (e.g. perceiving physical fitness from static facial images)
 - ([Paper1](https://www.researchgate.net/publication/279161384_Dominant_Voices_and_Attractive_Faces_The_Contribution_of_Visual_and_Auditory_Information_to_Integrated_Person_Impressions), [Paper2](https://pmc.ncbi.nlm.nih.gov/articles/PMC3645049/pdf/rsbl20130140.pdf))

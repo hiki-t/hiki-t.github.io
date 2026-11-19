@@ -39,7 +39,7 @@ Accordingly, my goals for 2026 and beyond are:
 
 - To continue my first goal, using interpretability to detect unintended model behaviors from internal signals that would otherwise stay hidden.
   - [My 2026 study](https://docs.google.com/document/d/19FvsDW5YjMoWYMwrhs_As9jVNdb_3DKhEDm4-neUk44/edit?usp=drive_link) uses mechanistic interpretability to reveal a two-stage verification process in Qwen2.5-1.5B, showing how the model responds to an injected false answer in arithmetic problems. Steering each stage at its own position resists the injection much better than steering both stages at once.
-- To map large populations of AI agents and human users together, observing their overall behaviors (as in the HF swarm incident) and how their beliefs change, starting with monitoring AI's influence on humans (e.g. how large populations of AI agents shape human views).
+- To map large populations of AI agents and human users together, observing their overall behaviors (as in the HF swarm incident) and how their beliefs and goals change, starting with monitoring AI's influence on humans (e.g. how large populations of AI agents shape human views).
   - To mitigate the risk of excessive AI persuasion of humans, I aim to build a population behavior map that monitors how a population behaves as a whole, traces where problems come from, and helps find protections against those causes.
 
 

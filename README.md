@@ -23,13 +23,13 @@ This challenge is likely to persist as:
 - Forced alignment often induces workaround or deceptive behaviors (e.g. "scheming" AIs).
 - We lack standardized methods to reliably interpret internal structures across models, tasks and research methods.
 
-#### **>>> Goals in 2025**
+#### **>>>>>> Goals in 2025**
 
 Accordingly, my first goal is to develop principled approaches for addressing representational misalignment in AI systems.  
 
 In 2025, frontier models began demonstrating new roles in enhancing human creativity and productivity (e.g. [New Chess Move Discoveries by DeepMind/Goodfire](https://www.pnas.org/doi/full/10.1073/pnas.2406675122); [Scientific Data Interpretations by Leap Lab](https://zenodo.org/records/15693353)). That same year, [my study](https://arxiv.org/pdf/2508.17182) also uncovered hidden emotional and logical structures underlying assertive and persuasive model outputs, offering insights into effective human communication. Building on this, my second goal is to build tools that leverage frontier models to amplify human cognitive capacities.
 
-#### **>>> Goals in 2026 and Beyond**
+#### **>>>>>> Goals in 2026 and Beyond**
 
 Kulveit et al.'s gradual disempowerment [(2025)](https://arxiv.org/pdf/2501.16946) and the Hugging Face swarm incident in 2026 ([OpenAI report](https://openai.com/index/hugging-face-incident-and-the-road-ahead/), [METR investigation](https://metr.org/hugging-face-incident-report-aug-2026.pdf)) convinced me that we are entering an era of transformative AI, where AI-augmented work becomes the norm and outperforms human work alone. Rather than letting AI replace humans, we should design and protect cooperative societies of human and AI agents that keep human roles meaningful.
 

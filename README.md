@@ -14,7 +14,7 @@ Last updated on 19 November, 2026
 
 ### Research Interests
 
-Building on my research in cognitive neuroscience (2006-2024)—where I studied how human values, decisions, and actions are internally represented—I now focus on AI safety (2024-present), particularly on understanding how the internal structure of AI systems leads to unintended values, reasoning and behaviors. 
+Building on my research in cognitive neuroscience (2008-2024)—where I studied how human values, decisions, and actions are internally represented—I now focus on AI safety (2024-present), particularly on understanding how the internal structure of AI systems leads to unintended values, reasoning and behaviors. 
 
 This challenge is likely to persist as:
 

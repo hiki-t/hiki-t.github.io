@@ -7,7 +7,7 @@ Last updated on 19 November, 2026
 <img src="1530035234413.jpeg" alt="My Profile" height="200">
 
 ### Profile
-- Independent researcher in cognitive neuroscience and AI safety (interpretability, CoT reasoning, assertive language in LLMs).
+- Independent researcher in cognitive neuroscience and AI safety (interpretability, CoT reasoning, assertive language).
 - **Links**: [**&nbsp;LinkedIn ↗**](https://www.linkedin.com/in/hikaru-tsujimura/) / [**&nbsp;X ↗**](https://x.com/htsujimura) / [**&nbsp;Google Scholar ↗**](https://scholar.google.com/citations?user=3pa3V-kAAAAJ&hl=en) / [**&nbsp;GitHub ↗**](https://github.com/hiki-t)
 
 <br>

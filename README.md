@@ -1,6 +1,6 @@
 # CV/Resume: Hikaru Tsujimura, PhD
 
-Last updated on 19 November, 2026  
+Last updated on 20 November, 2026  
 
 <br>
 

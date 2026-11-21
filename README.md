@@ -51,7 +51,7 @@ Accordingly, my goals for 2026 and beyond are:
 - AI Safety:
   - Chain-of-Thought (CoT) Reasoning in LLMs
   - Mechanistic Interpretability (SAE, TransformerLens)
-  - Overconfidence Analysis in LLMs
+  - Assertiveness / Overconfidence Analysis in LLMs
   - LLM Persona Engineering
   - AI Security & Red Teaming (Frontier models)
   - Safe Reinforcement Learning (PPO)

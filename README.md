@@ -130,7 +130,7 @@ Accordingly, my goals for 2026 and beyond are:
 - Used RNN-based models (Neural ODE, LSTM, GRU) for motor tasks (3-Bit Flip Flop and Random Target task).
 - Achieved strong alignment between model outputs and muscle activity data across varied tasks ([GitHub](https://github.com/hiki-t/NMA24_group_project/blob/main/Group%20Project%20Slide.pdf)).
 
-#### # 11. Collaborative Project 2024-2025 @ University College London (May, 2024 - Present)
+#### # 11. Collaborative Project @ University College London (May, 2024 - Present)
 - Visiting postdoc in Prof. Bradley Love’s lab, extending the previous independent work (#12).
 - Utilizing Tensorflow, Variational Inference, ML models (e.g. Deep Support Vector Machine).
 - Training ML models to predict and generate human behaviors and brain activity patterns (fMRI).
